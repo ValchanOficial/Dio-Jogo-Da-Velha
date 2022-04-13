@@ -1,9 +1,6 @@
-# Jogo da Velha
+# Órbi Web Games Developer: Jogo da Velha
 
-Projeto produzido para um bootcamp em parceria com a [Digital Innovation One](https://digitalinnovation.one).
-
-# Descrição do projeto
-Neste projeto, desenvolvemos juntos um jogo da velha utilizando HTML, CSS e Javascript.
+Projeto desenvolvido no bootcamp Órbi Web Games Developer em parceria com a [Digital Innovation One](https://digitalinnovation.one).
 
 ## Para rodar o projeto
 
